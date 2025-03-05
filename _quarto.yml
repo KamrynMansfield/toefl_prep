@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "TOEFL Test Prep"
+  sidebar:
+    left:
+      - text: "Week 1"
+        href: qmd/week1.qmd
+      - text: "Week 2"
+        href: qmd/week2.qmd
+      - text: "More Weeks"
+        menu: 
+          - text: "Week 3"
+            href: qmd/week3.qmd
+            
+        
+theme: sandstone
+  
+execute:
+  echo: false
+  message: false
+  warning: false
+  error: false
+  
+lightbox: TRUE
+

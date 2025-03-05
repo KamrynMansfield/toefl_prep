@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "qmd/week3.html",
+    "href": "qmd/week3.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "qmd/week3.html#quarto",
+    "href": "qmd/week3.html#quarto",
+    "title": "Week 1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "qmd/week3.html#running-code",
+    "href": "qmd/week3.html#running-code",
+    "title": "Week 1",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "qmd/week1.html",
+    "href": "qmd/week1.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "qmd/week1.html#quarto",
+    "href": "qmd/week1.html#quarto",
+    "title": "Week 1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "qmd/week1.html#running-code",
+    "href": "qmd/week1.html#running-code",
+    "title": "Week 1",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "qmd/week2.html",
+    "href": "qmd/week2.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "qmd/week2.html#quarto",
+    "href": "qmd/week2.html#quarto",
+    "title": "Week 1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "qmd/week2.html#running-code",
+    "href": "qmd/week2.html#running-code",
+    "title": "Week 1",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  }
+]
