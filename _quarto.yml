@@ -5,12 +5,14 @@ project:
 website:
   title: "TOEFL Prep Course"
   bread-crumbs: false
-  navbar: 
+  navbar:
     background: dark
     foreground: light
-    pinned: true
-    search: false
+    pinned: false
+    search: true
   sidebar:
+    collapse-level: 1
+    pinned: false
     serach: false
     style: "docked"
     logo: images/asc_logo.png
