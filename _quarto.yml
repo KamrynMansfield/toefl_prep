@@ -3,20 +3,54 @@ project:
   output-dir: docs
 
 website:
-  title: "TOEFL Test Prep"
+  title: "TOEFL Prep Course"
+  bread-crumbs: false
+  navbar: 
+    background: dark
+    foreground: light
+    pinned: true
+    search: false
   sidebar:
-    left:
-      - text: "Week 1"
-        href: qmd/week1.qmd
-      - text: "Week 2"
-        href: qmd/week2.qmd
-      - text: "More Weeks"
-        menu: 
-          - text: "Week 3"
-            href: qmd/week3.qmd
+    serach: false
+    style: "docked"
+    logo: images/asc_logo.png
+    collapsible: true
+    open: true
+    position: left
+    contents: 
+    - section:  "Weekly Schedule"
+      contents:
+        - text: "Week 1"
+          href: qmd/week1.qmd
+        - text: "Week 2"
+          href: qmd/week2.qmd
+        - text: "Week 3"
+          href: qmd/week3.qmd
+    - section: "Reading"
+      contents:
+        - text: "Reading Page"
+          href: qmd/reading.qmd
+        - text: "<a href='https://www.ets.org/toefl/test-takers/ibt/about/content/reading.html' target='_blank'>TOEFL Website Info </a>"
+    - section: "Listening"
+      contents:
+        - text: "Listening Page"
+          href: qmd/listening.qmd
+        - text: "<a href='https://www.ets.org/toefl/test-takers/ibt/about/content/listening.html' target='_blank'>TOEFL Website Info </a>"
+    - section: "Speaking"
+      contents:
+        - text: "Speaking Page"
+          href: qmd/speaking.qmd
+        - text: "<a href='https://www.ets.org/toefl/test-takers/ibt/about/content/speaking.html' target='_blank'>TOEFL Website Info </a>"
+    - section: "Writing"
+      contents:
+        - text: "Writing Page"
+          href: qmd/writing.qmd
+        - text: "<a href='https://www.ets.org/toefl/test-takers/ibt/about/content/writing.html' target='_blank'>TOEFL Website Info </a>"
+    - text: "<a href='https://toeflibt.ets.org/signup/register?_gl=1*8f7q7f*_gcl_au*MTA1OTgxNTYyNi4xNzQwNjg0OTc3LjE0MTk4NjQwODcuMTc0MDY4ODkwMC4xNzQwNjg4OTAw*_ga*MTM0MjkxNzI1OS4xNzQwNjg0OTc4*_ga_T2TH8KSGFZ*MTc0MTE0MDE3Ni42LjEuMTc0MTE0MjAxOS4wLjAuMA..' target='_blank'>TOEFL TestReady</a>"
+    
             
         
-theme: sandstone
+theme: simplex
   
 execute:
   echo: false

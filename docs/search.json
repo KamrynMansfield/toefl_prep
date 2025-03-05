@@ -1,65 +1,214 @@
 [
   {
-    "objectID": "qmd/week3.html",
-    "href": "qmd/week3.html",
-    "title": "Week 1",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "TOEFL Prep Course",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Welcome to the 13-week TOEFL prep course. Throughout the coming weeks, you will become very familiar with the TOEFL exam, and you will enter the test feeling prepared.\nThe goal for this course is to help you score above a 95 on the TOAFL exam. To achieve this, we will work on each section of the TOEFL to get the following scores in each section:\n\nReading\n24 / 30\n\n\n\n\n\n\n\nListening\n24 / 30\n\n\n\n\n\n\n\nSpeaking\n24 / 30\n\n\n\n\n\n\n\nWriting\n24 / 30"
   },
   {
-    "objectID": "qmd/week3.html#quarto",
-    "href": "qmd/week3.html#quarto",
-    "title": "Week 1",
+    "objectID": "qmd/writing.html",
+    "href": "qmd/writing.html",
+    "title": "Writing",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "qmd/week3.html#running-code",
-    "href": "qmd/week3.html#running-code",
-    "title": "Week 1",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "text": "Writing resources and things",
+    "crumbs": [
+      "Writing",
+      "Writing Page"
+    ]
   },
   {
     "objectID": "qmd/week1.html",
     "href": "qmd/week1.html",
     "title": "Week 1",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Objective 1\nObjective 2",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 1"
+    ]
   },
   {
-    "objectID": "qmd/week1.html#quarto",
-    "href": "qmd/week1.html#quarto",
+    "objectID": "qmd/week1.html#objectives",
+    "href": "qmd/week1.html#objectives",
     "title": "Week 1",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Objective 1\nObjective 2",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 1"
+    ]
   },
   {
-    "objectID": "qmd/week1.html#running-code",
-    "href": "qmd/week1.html#running-code",
+    "objectID": "qmd/week1.html#lesson-overview",
+    "href": "qmd/week1.html#lesson-overview",
     "title": "Week 1",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "section": "Lesson Overview",
+    "text": "Lesson Overview\n\nLearning\n\nThis time period\nThis and this topic\n\nPractice\n\nThis time period",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 1"
+    ]
+  },
+  {
+    "objectID": "qmd/week1.html#student-preparation",
+    "href": "qmd/week1.html#student-preparation",
+    "title": "Week 1",
+    "section": "Student Preparation",
+    "text": "Student Preparation\n\nThings to have completed before class",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 1"
+    ]
+  },
+  {
+    "objectID": "qmd/week1.html#student-homework",
+    "href": "qmd/week1.html#student-homework",
+    "title": "Week 1",
+    "section": "Student Homework",
+    "text": "Student Homework\n\nPreview of the homework that will be given",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 1"
+    ]
+  },
+  {
+    "objectID": "qmd/listening.html",
+    "href": "qmd/listening.html",
+    "title": "Listening",
+    "section": "",
+    "text": "This is where the we can put listening practices and resources",
+    "crumbs": [
+      "Listening",
+      "Listening Page"
+    ]
+  },
+  {
+    "objectID": "qmd/listening.html#section",
+    "href": "qmd/listening.html#section",
+    "title": "Listening",
+    "section": "",
+    "text": "This is where the we can put listening practices and resources",
+    "crumbs": [
+      "Listening",
+      "Listening Page"
+    ]
   },
   {
     "objectID": "qmd/week2.html",
     "href": "qmd/week2.html",
-    "title": "Week 1",
+    "title": "Week 2",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Objective 1\nObjective 2",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 2"
+    ]
   },
   {
-    "objectID": "qmd/week2.html#quarto",
-    "href": "qmd/week2.html#quarto",
-    "title": "Week 1",
+    "objectID": "qmd/week2.html#objectives",
+    "href": "qmd/week2.html#objectives",
+    "title": "Week 2",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Objective 1\nObjective 2",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 2"
+    ]
   },
   {
-    "objectID": "qmd/week2.html#running-code",
-    "href": "qmd/week2.html#running-code",
-    "title": "Week 1",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "qmd/week2.html#lesson-overview",
+    "href": "qmd/week2.html#lesson-overview",
+    "title": "Week 2",
+    "section": "Lesson Overview",
+    "text": "Lesson Overview\n\nLearning\n\nThis time period\nThis and this topic\n\nPractice\n\nThis time period",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 2"
+    ]
+  },
+  {
+    "objectID": "qmd/week2.html#student-preparation",
+    "href": "qmd/week2.html#student-preparation",
+    "title": "Week 2",
+    "section": "Student Preparation",
+    "text": "Student Preparation\n\nThings to have completed before class",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 2"
+    ]
+  },
+  {
+    "objectID": "qmd/week2.html#student-homework",
+    "href": "qmd/week2.html#student-homework",
+    "title": "Week 2",
+    "section": "Student Homework",
+    "text": "Student Homework\n\nPreview of the homework that will be given",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 2"
+    ]
+  },
+  {
+    "objectID": "qmd/week3.html",
+    "href": "qmd/week3.html",
+    "title": "Week 3",
+    "section": "",
+    "text": "Objective 1\nObjective 2",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 3"
+    ]
+  },
+  {
+    "objectID": "qmd/week3.html#objectives",
+    "href": "qmd/week3.html#objectives",
+    "title": "Week 3",
+    "section": "",
+    "text": "Objective 1\nObjective 2",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 3"
+    ]
+  },
+  {
+    "objectID": "qmd/week3.html#lesson-overview",
+    "href": "qmd/week3.html#lesson-overview",
+    "title": "Week 3",
+    "section": "Lesson Overview",
+    "text": "Lesson Overview\n\nLearning\n\nThis time period\nThis and this topic\n\nPractice\n\nThis time period",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 3"
+    ]
+  },
+  {
+    "objectID": "qmd/week3.html#student-preparation",
+    "href": "qmd/week3.html#student-preparation",
+    "title": "Week 3",
+    "section": "Student Preparation",
+    "text": "Student Preparation\n\nThings to have completed before class",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 3"
+    ]
+  },
+  {
+    "objectID": "qmd/week3.html#student-homework",
+    "href": "qmd/week3.html#student-homework",
+    "title": "Week 3",
+    "section": "Student Homework",
+    "text": "Student Homework\n\nPreview of the homework that will be given",
+    "crumbs": [
+      "Weekly Schedule",
+      "Week 3"
+    ]
+  },
+  {
+    "objectID": "qmd/alphabet.html#abcdefghijklmnopqrstuvwxyz-1",
+    "href": "qmd/alphabet.html#abcdefghijklmnopqrstuvwxyz-1",
+    "title": "Alphabet",
+    "section": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
   }
 ]
